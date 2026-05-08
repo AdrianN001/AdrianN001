@@ -40,7 +40,7 @@ I'm a passionate developer exploring **systems programming, language design, and
 
 A lightweight interpreted programming language written from scratch in Rust — including a custom lexer, parser, and evaluator with built-in functions.
 
-👉 See project: [https://github.com/AdrianN001/aloelang](https://github.com/AdrianN001/aloelang)
+👉 See project: [https://github.com/AdrianN001/aloelang](https://github.com/AdrianN001/aloe_lang)
 
 ---
 
